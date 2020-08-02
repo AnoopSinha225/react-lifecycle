@@ -7,6 +7,7 @@ class Child extends Component {
   // state = {
   //   name: 'peter'
   // }
+  
   constructor() {
     super();
     this.state = {
